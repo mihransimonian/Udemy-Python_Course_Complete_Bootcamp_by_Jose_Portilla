@@ -5,6 +5,10 @@ Weblink: <https://www.udemy.com/course/complete-python-bootcamp/>
 
 *Note: The course keeps getting updated, ***I have started this course in 2018*** and since than chapters were added, with more coding excercises. Discrepancies between my code and the current version of the repository might therefore occur.*
 
+## Code in this repository
+I have added the Jupyter Notebook answer files to tests given in the course.
+**Excercise numbers and chapter numbers might be confusing**, this is because in the original course there are also explanatory files, which are not my work so I will not add them.
+
 ## Original Repository
 The author has added an official repository, in which the original question and code is added. Again, note that this will keep being updated so there might be a difference between my code/chapters compared to the original repository. 
 
